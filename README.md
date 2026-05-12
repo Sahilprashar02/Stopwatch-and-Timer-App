@@ -11,7 +11,7 @@
 
 **A premium Stopwatch & Timer application with a stunning glassmorphism dark theme UI.**
 
-[Live Preview](https://sahilprashar02.github.io/Stopwatch-and-Timer-App/) · [Report Bug](https://github.com/Sahilprashar02/Stopwatch-and-Timer-App/issues) · [Request Feature](https://github.com/Sahilprashar02/Stopwatch-and-Timer-App/issues)
+[Live Preview](https://stopwatch-and-timer-app.vercel.app/) · [Report Bug](https://github.com/Sahilprashar02/Stopwatch-and-Timer-App/issues) · [Request Feature](https://github.com/Sahilprashar02/Stopwatch-and-Timer-App/issues)
 
 </div>
 
